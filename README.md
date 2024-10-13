@@ -1,20 +1,7 @@
-<!--
-**Rachel-Starr/Rachel-Starr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/c7/2f/b7/c72fb735d130b7b58362d307bdd1ea01.jpg"  />
+  <img height="400" src="https://images.hdqwalls.com/download/cyberpunk-street-night-4k-ol-1920x1080.jpg"  />
 </div>
 
 ###
@@ -107,13 +94,5 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rachel-Starr/Rachel-Starr/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Isak Veliz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Isak%20Veliz&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
