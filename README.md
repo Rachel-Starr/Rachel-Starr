@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/c7/2f/b7/c72fb735d130b7b58362d307bdd1ea01.jpg"  />
@@ -108,5 +107,13 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rachel-Starr/Rachel-Starr/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Isak Veliz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Isak%20Veliz&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
