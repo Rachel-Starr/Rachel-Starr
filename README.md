@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div align="center">
-  <img height="400" src="https://images.hdqwalls.com/download/cyberpunk-street-night-4k-ol-1920x1080.jpg"  />
+<div style="text-align: center; width: 100%; height: 200px; overflow: hidden;">
+  <img style="width: 100%; height: 100%; object-fit: cover;" src="https://images.hdqwalls.com/download/cyberpunk-street-night-4k-ol-1920x1080.jpg" alt="Cyberpunk Street Night" />
 </div>
 
 ###
@@ -84,15 +84,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
 </div>
-
-###
-
-<h5 align="left">Github contributions:</h5>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rachel-Starr/Rachel-Starr/output/snake.svg" alt="Snake animation" />
 
 ###
